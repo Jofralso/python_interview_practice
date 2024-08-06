@@ -95,7 +95,7 @@ To write to an existing file, you must add a parameter to the open() function:
 
 """
 
-f = open("demofile2.txt", "a")
+f = open("demofile1.txt", "a")
 f.write("Now the file has more content!")
 f.close()
 
@@ -129,10 +129,10 @@ print("------------------------------------------------")
 
 
 # Delete File
-
+"""
 import os
 os.remove("demofile.txt")
-
+"""
 """
 
 The delete() function will delete the specified file path.
