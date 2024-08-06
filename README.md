@@ -1,7 +1,3 @@
-Sure, here is an updated version of your README file that includes the topics you listed, structured numerically and with sections for exercises. 
-
----
-
 # Python Basics and Coding Interview Exercises
 
 Welcome to the **Python Basics and Coding Interview Exercises** repository! This repository is designed to help you learn and practice Python programming, focusing on topics and exercises commonly encountered in coding interviews. The content is based on W3Schools Python tutorials and has been carefully curated by Francisco Soares (@Jofralso).
